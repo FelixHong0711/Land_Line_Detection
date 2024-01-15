@@ -1,0 +1,6 @@
+streamlit==1.28.2
+opencv-python == 4.9.0.80
+numpy == 1.23.5
+pyqtwebengine == 5.15.6
+PyQt5 == 5.15.10
+moviepy == 1.0.3
